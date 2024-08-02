@@ -1,18 +1,18 @@
 ## Куприенко Станислав Олегович
-### _телеграм_: `@Stas_Kuprienko`
+### _telegram_: `@Stas_Kuprienko`
 ***
 ## Java-разработчик
 ***
 ### Стэк технологий:
 + Java Core
-+ ООП
 + Maven
 + Git
 + SQL
 + Apache Tomcat
-+ REST и gRPC
 + Spring Framework
 + Hibernate ORM
++ MVC
++ REST и gRPC
 ***
 #### Навыки:
  Занимаюсь проектом на Spring Framework с использованием Hibernate ORM.
