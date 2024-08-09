@@ -14,6 +14,7 @@
 + MVC
 + REST и gRPC
 + Redis
++ Docker
 ***
 #### Навыки:
  Занимаюсь проектом на Spring Framework с использованием Hibernate ORM.
