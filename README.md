@@ -4,8 +4,9 @@
 ## Java-разработчик
 ***
 ### Стэк технологий:
-+ Java Core
++ Java
 + Maven
++ Gradle
 + Git
 + SQL
 + Apache Tomcat
@@ -13,7 +14,10 @@
 + Hibernate ORM
 + MVC
 + REST и gRPC
++ WebFLux
 + Redis
++ Kafka
++ Keycloak
 + Docker
 ***
 #### Навыки:
