@@ -11,6 +11,8 @@
 + SQL
 + Apache Tomcat
 + Spring Framework
+ + Boot
+ + Cloud
 + Hibernate ORM
 + MVC
 + REST и gRPC
