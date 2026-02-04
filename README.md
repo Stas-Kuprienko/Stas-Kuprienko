@@ -11,8 +11,9 @@
 + SQL
 + Apache Tomcat
 + Spring Framework
- + Boot
- + Cloud
+ - Boot
+ - Cloud
++ JDBC
 + Hibernate ORM
 + MVC
 + REST и gRPC
@@ -20,6 +21,7 @@
 + Redis
 + Kafka
 + Keycloak
++ Telegram API
 + Docker
 ***
 #### Skills and experience:
