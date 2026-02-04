@@ -10,7 +10,7 @@
 + Git
 + SQL
 + Apache Tomcat
-+ Spring Framework
+- Spring Framework
  - Boot
  - Cloud
 + JDBC
