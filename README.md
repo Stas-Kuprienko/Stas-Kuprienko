@@ -11,15 +11,16 @@
 + SQL
 + Apache Tomcat
 - Spring Framework
- - Boot
- - Cloud
+- Spring Boot
+- Spring Cloud
 + JDBC
-+ Hibernate ORM
-+ MVC
-+ REST и gRPC
++ REST API
++ gRPC
 + WebFLux
++ Resilience4J
 + Redis
 + Kafka
++ RabbitMQ
 + Keycloak
 + Telegram API
 + Docker
