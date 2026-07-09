@@ -25,6 +25,6 @@
 + Telegram API
 + Docker
 ***
-#### Skills and experience:
- //TODO
+#### Portfolio:
+ [Dental-Lab-Service](https://github.com/Stas-Kuprienko/dental-lab-service)
 ***
