@@ -15,8 +15,6 @@ Backend разработчик, специализирующийся на раз
 ***
 > ## Portfolio:
  [**Dental-Lab-Service**](https://github.com/Stas-Kuprienko/dental-lab-service) 👈 
- 
-*Первая версия этого проекта была написана без Spring Framework - только Java, Servlet API, JDBC, кастомная JWT авторизация и запуск на Apache Tomcat. Потом проект был полностью переписан на Spring Boot и расширен новыми возможностями.*
 
 ***
 
