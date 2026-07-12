@@ -1,30 +1,71 @@
-## Stanislav Kuprienko
-### _telegram_: `@Stas_Kuprienko`
+# Stanislav Kuprienko
+
+## 👋 Hi there! I'm Java Backend Developer 
+
 ***
-## Java Developer 
+
+Backend разработчик, специализирующийся на разработке приложений на Java с использованием Spring Boot. 
+
+
+На данный момент работаю зубным техником, но активно развиваюсь в направлении backend-разработки - изучаю распределённые системы, безопасность приложений и облачные технологии. 
+
+
+Опыт работы зубным техником вдохновил меня на создание собственного проекта **Dental Lab Service** - сервис для ведения заказов, хранения фотографий, расчёта дохода, формирования отчётов и уведомлениями. 
+
 ***
-### Technology stack:
+> ## Portfolio:
+ [**Dental-Lab-Service**](https://github.com/Stas-Kuprienko/dental-lab-service) 👈 
+ 
+*Первая версия этого проекта была написана без Spring Framework - только Java, Servlet API, JDBC, кастомная JWT авторизация и запуск на Apache Tomcat. Потом проект был полностью переписан на Spring Boot и расширен новыми возможностями.*
+
+***
+
+> ## Tech stack:
+
 + Java
-+ Maven
-+ Gradle
-+ Git
 + SQL
-+ Apache Tomcat
-- Spring Framework
-- Spring Boot
-- Spring Cloud
-+ JDBC
-+ REST API
-+ gRPC
-+ WebFLux
-+ Resilience4J
-+ Redis
-+ Kafka
+
+> Spring Framework
+* Boot
+* Cloud 
+* Web
+* Webflux
+* Security
+* Data
+* JDBC
+* Thymeleaf
+
+> API
+* REST
+* gRPC
+
+> Infrastructure
+
+* PostgreSQL
+* MySQL
+* Redis
+* S3 MinIO
+
++ Apache Kafka
 + RabbitMQ
-+ Keycloak
-+ Telegram API
+
+- Keycloak
+
+* Grafana
+* Loki
+* Prometheus
+
 + Docker
++ Nginx
+
+> Building
+  - Gradle
+  - Maven 
+ 
+
+_Перед изучением Spring Framework работал с Servlet API, JDBC и Apache Tomcat_
+
 ***
-#### Portfolio:
- [Dental-Lab-Service](https://github.com/Stas-Kuprienko/dental-lab-service)
-***
+
+* Email: stasi.architekk@gmail.com
+* Telegram: @Stas_Kuprienko
